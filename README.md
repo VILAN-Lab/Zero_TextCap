@@ -25,7 +25,7 @@ After you have completed the OCR text extraction, please save the validation and
 pip install -r requirements.txt
 ```
 ****
-### Citation
+<!--### Citation
 Please cite our work if you use it in your research:
 ```
 @inproceedings{xu2023zero,
@@ -37,6 +37,6 @@ Please cite our work if you use it in your research:
 }
 ```
 ### Acknowledgment 
-This code is based on the [bert-gen](https://github.com/nyu-dl/bert-gen) and [ConZIC](https://github.com/joeyz0z/ConZIC). 
+This code is based on the [bert-gen](https://github.com/nyu-dl/bert-gen) and [ConZIC](https://github.com/joeyz0z/ConZIC). -->
 
 
