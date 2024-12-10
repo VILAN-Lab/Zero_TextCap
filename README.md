@@ -1,5 +1,5 @@
 ## Pytorch Implementation of [Zero-TextCap: Zero-shot Framework for Text-based Image Captioning][MM 2023]
-***
+
 ## DEMO
 
 ### Preparation
